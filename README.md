@@ -12,14 +12,9 @@
 ### Composer
 
     composer update
-    
-    
-### For Environment Variable Create
- 
-    cp .env.example .env
  
     
- ### For Migration table in database [Create database name as ```IMS```]
+ ### For Migration table in database [Create database name as ```store```]
  
     php artisan migrate
     
